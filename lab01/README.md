@@ -12,4 +12,4 @@
 > ![Diagrama 1](images/diagrama1.png)
 
 * Diagrama com informações sobre a variação diária de uma ação no mercado de ações
-> > ![Diagrama 2](images/diagrama2.png)
+> ![Diagrama 2](images/diagrama2.png)
