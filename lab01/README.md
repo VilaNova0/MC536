@@ -6,7 +6,7 @@
 
 ## Lab 01
 * Link para o notebook jupyter com solução da Tarefa 1
-> ![Jupyter Notebook](jupnotebook/lab01-api.ipynb)
+> ![Jupyter Notebook](notebook/lab01-api.ipynb)
 
 * Diagrama da divisão de países em regiões e subregiões, bem como suas características
 > ![Diagrama 1](images/diagrama1.png)
