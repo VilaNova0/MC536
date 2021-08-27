@@ -1,8 +1,5 @@
 # Aluno
-* André Vila Nova Wagner da Costa
-
-# RA
-* 213081
+* 213081: André Vila Nova Wagner da Costa
 
 ## Lab 01
 * Link para o notebook jupyter com solução da Tarefa 1
