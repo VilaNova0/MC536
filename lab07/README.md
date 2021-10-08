@@ -9,6 +9,8 @@
 
 > ![Diagrama Filme-Midia-Serie](images/filme-midia-serie.png)
 
+> ![Diagrama Ator-Midia-Diretor](images/ator-midia-diretor.png)
+
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
