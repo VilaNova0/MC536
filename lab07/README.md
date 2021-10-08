@@ -11,6 +11,6 @@
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Pergunta 1
-> * Pergunta 2
-> * Pergunta 3
+> * Há relação entre a duração de uma obra e sua avaliação?
+> * Qual plataforma apresenta maior número de obras em seu catálogo?
+> * Quais atores apresentam as melhores avaliações em seus trabalhos?
