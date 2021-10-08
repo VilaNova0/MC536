@@ -5,7 +5,11 @@
 > Utilize este [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
 > Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image`):
 >
-> ![Diagrama de Orquestração](images/modelo-logico-grafos.png)
+> ![Diagrama Midia-Plataforma](images/midia-plataforma.png)
+
+> ![Diagrama Filme-Midia-Serie](images/filme-midia-serie.png)
+
+> ![Diagrama Ator-Midia-Diretor](images/ator-midia-diretor.png)
 
 ## Perguntas de Pesquisa/análise
 
