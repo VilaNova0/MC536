@@ -2,7 +2,7 @@
 * `213081`: `André Vila Nova Wagner da Costa`
 
 ## Modelo de Grafo de Conhecimento
-> * imagem
+> ![Grafo de Conhecimento](images/lab09graph.png)
 
 ## Perguntas de Pesquisa/análise
 
