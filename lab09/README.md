@@ -7,6 +7,6 @@
 ## Perguntas de Pesquisa/análise
 
 > Liste aqui as três perguntas de pesquisa/análise
-> * Há relação entre a duração de uma obra e sua avaliação?
-> * Qual plataforma apresenta maior número de obras em seu catálogo?
-> * Quais atores apresentam as melhores avaliações em seus trabalhos?
+> * Quais atores/diretores produziram filmes com as melhores avaliações?
+> * Os diretores possuem atores "preferidos" para trabalhar com?
+> * Quais duplas (ou trios) de atores que mais trabalham juntos?
